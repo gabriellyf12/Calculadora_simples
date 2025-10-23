@@ -12,7 +12,7 @@ Uma calculadora web simples desenvolvida com HTML, CSS e JavaScript.
 
 ##  Como usar
 
-Acesse: https://seuusuario.github.io/calculadora-simples
+Acesse: https://gabriellyf12.github.io/calculadora-simples
 
 ##  Tecnologias
 
